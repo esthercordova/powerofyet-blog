@@ -4,10 +4,10 @@
     <title>Webjeda cards</title>
     <description>Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
 </description>
-    <link>http://localhost:4000https://esthercordova.github.io/powerofyet-blog//</link>
-    <atom:link href="http://localhost:4000https://esthercordova.github.io/powerofyet-blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Jul 2017 21:20:15 -0400</pubDate>
-    <lastBuildDate>Sun, 02 Jul 2017 21:20:15 -0400</lastBuildDate>
+    <link>https://esthercordova.github.io/powerofyet-blog//</link>
+    <atom:link href="https://esthercordova.github.io/powerofyet-blog//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 02 Jul 2017 21:28:04 -0400</pubDate>
+    <lastBuildDate>Sun, 02 Jul 2017 21:28:04 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 13 Jun 2016 01:21:47 -0400</pubDate>
-        <link>http://localhost:4000https://esthercordova.github.io/powerofyet-blog//welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000https://esthercordova.github.io/powerofyet-blog//welcome-to-jekyll/</guid>
+        <link>https://esthercordova.github.io/powerofyet-blog//welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://esthercordova.github.io/powerofyet-blog//welcome-to-jekyll/</guid>
         
         
         <category>one</category>
@@ -58,8 +58,8 @@
 &lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Sun, 12 Jun 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000https://esthercordova.github.io/powerofyet-blog//usage/</link>
-        <guid isPermaLink="true">http://localhost:4000https://esthercordova.github.io/powerofyet-blog//usage/</guid>
+        <link>https://esthercordova.github.io/powerofyet-blog//usage/</link>
+        <guid isPermaLink="true">https://esthercordova.github.io/powerofyet-blog//usage/</guid>
         
         
         <category>two</category>
@@ -354,8 +354,8 @@
 &lt;p&gt;Change class &lt;code class=&quot;highlighter-rouge&quot;&gt;panel-primary&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;panel-warning&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;panel-success&lt;/code&gt; and so on to get other panels.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000https://esthercordova.github.io/powerofyet-blog//elements/</link>
-        <guid isPermaLink="true">http://localhost:4000https://esthercordova.github.io/powerofyet-blog//elements/</guid>
+        <link>https://esthercordova.github.io/powerofyet-blog//elements/</link>
+        <guid isPermaLink="true">https://esthercordova.github.io/powerofyet-blog//elements/</guid>
         
         
         <category>jekyll</category>
@@ -373,8 +373,27 @@
 &lt;p&gt;Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Jun 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000https://esthercordova.github.io/powerofyet-blog//no-image/</link>
-        <guid isPermaLink="true">http://localhost:4000https://esthercordova.github.io/powerofyet-blog//no-image/</guid>
+        <link>https://esthercordova.github.io/powerofyet-blog//no-image/</link>
+        <guid isPermaLink="true">https://esthercordova.github.io/powerofyet-blog//no-image/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Post with no image</title>
+        <description>&lt;p&gt;When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.&lt;/p&gt;
+
+&lt;p&gt;Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jun 2016 00:00:00 -0400</pubDate>
+        <link>https://esthercordova.github.io/powerofyet-blog//no-image-copy/</link>
+        <guid isPermaLink="true">https://esthercordova.github.io/powerofyet-blog//no-image-copy/</guid>
         
         
         <category>jekyll</category>
@@ -431,8 +450,8 @@ version 0.8 - Bootstrap based cards layout theme.
 &lt;/pre&gt;
 </description>
         <pubDate>Sat, 07 May 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000https://esthercordova.github.io/powerofyet-blog//documentation/</link>
-        <guid isPermaLink="true">http://localhost:4000https://esthercordova.github.io/powerofyet-blog//documentation/</guid>
+        <link>https://esthercordova.github.io/powerofyet-blog//documentation/</link>
+        <guid isPermaLink="true">https://esthercordova.github.io/powerofyet-blog//documentation/</guid>
         
         
       </item>
