@@ -3,16 +3,17 @@ html,body {
     font-size: $base-font-size;
 }
 
-.navbar {
-    border-radius: 0;
-}
 
-.navbar-default {
-    border-color: transparent;
-    background-color: transparent;
-    padding: 10px 0;
-    border-bottom: 1px solid #eee;
-}
+// .navbar {
+//     border-radius: 0;
+// }
+
+// .navbar-default {
+//     border-color: transparent;
+//     background-color: transparent;
+//     padding: 10px 0;
+//     border-bottom: 1px solid #eee;
+// }
 
 img {
     max-width: 100%;
@@ -38,14 +39,14 @@ img {
 .p20{
     padding: 20px 0;
 }
-.navbar-brand {
-    font-weight: 900;
-    font-size: 1.85em;
-    padding: 10px;
-    @media screen and (max-width: $on-palm) {
-        font-size: 1.5em;
-    }
-}
+// .navbar-brand {
+//     font-weight: 900;
+//     font-size: 1.85em;
+//     padding: 10px;
+//     @media screen and (max-width: $on-palm) {
+//         font-size: 1.5em;
+//     }
+// }
 .post-meta {
     color: $grey-color;
 }

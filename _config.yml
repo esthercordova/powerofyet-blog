@@ -14,6 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
   
   
 baseurl: "https://esthercordova.github.io/powerofyet-blog/" # the subpath of your site, e.g. /blog
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+mainsiteurl: "https://esthercordova.github.io/powerofyet/"
 url: "" # the base hostname & protocol for your site
 
 #sidebar
