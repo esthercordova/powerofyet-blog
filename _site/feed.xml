@@ -6,23 +6,34 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jul 2017 17:40:35 -0400</pubDate>
-    <lastBuildDate>Wed, 05 Jul 2017 17:40:35 -0400</lastBuildDate>
+    <pubDate>Wed, 05 Jul 2017 17:51:55 -0400</pubDate>
+    <lastBuildDate>Wed, 05 Jul 2017 17:51:55 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>Carol Dweck</title>
-        <description>&lt;h1 id=&quot;carol-dweck-mindset--the-new-psychology-of-success&quot;&gt;Carol Dweck ‘Mindset – the new psychology of success’&lt;/h1&gt;
+        <title>Recognize Mindsets</title>
+        <description>&lt;p&gt;Recognize Fixed Mindset Thoughts and Replace them&lt;/p&gt;
 
-&lt;iframe style=&quot;text-align:center;&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QGvR_0mNpWM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Kids learn a lot from observing and listening to you. So its crucial to recognize fixed mindset thoughts and then replace then in your every day life with growth mindset thoughts. In the beginning this will feel maybe a little weird but over time it will come naturally. Find below a a list with things to say instead:&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;{site.baseurl/sayings.png}&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just as a baby isn’t born talking but learns over time, they don’t know everything but can learn over time with work.&lt;/p&gt;
+
+&lt;p&gt;A growth mindset helps children to believe that they can learn, change, and develop needed skills. They are better equipped to handle inevitable setbacks, and know that hard work can help them accomplish their goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;{site.baseurl/comic1.png}&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;{site.baseurl/comic1.png}&lt;/p&gt;
 </description>
-        <pubDate>Tue, 18 Apr 2017 01:21:47 -0400</pubDate>
-        <link>/carol-video/</link>
-        <guid isPermaLink="true">/carol-video/</guid>
+        <pubDate>Sat, 01 Jul 2017 01:21:47 -0400</pubDate>
+        <link>/test/</link>
+        <guid isPermaLink="true">/test/</guid>
         
         
-        <category>two</category>
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
@@ -41,8 +52,29 @@
 &lt;p&gt;Interesting is that the difference between all respondents compared to the group that at least has bought 1 children’s picture book in the last 5 years is not significant different at all. Both illustrations are perceived similar professional made, which is great. But in all other areas the data shows a clear winner!&lt;/p&gt;
 
 &lt;p&gt;And the winner is….&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/page1a.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Have a look at the breakdown of the individual questions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/survey.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Curious why people picked illustration A? Here is what people said why they love illustration A:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Great bright, gender neural colors- positive and sunny&lt;/li&gt;
+  &lt;li&gt;Great setting and perspective of Enna (close-up)&lt;/li&gt;
+  &lt;li&gt;Facial expression very thoughtful, it perfectly conveys Enna’s annoyance about sleep time&lt;/li&gt;
+  &lt;li&gt;It’s so lovely how the activities ant thoughts of her day are illustrated and seem to come from her imagination&lt;/li&gt;
+  &lt;li&gt;Illustration leaves room for imagination – thoughts are open not limited&lt;/li&gt;
+  &lt;li&gt;Has a whimsical nature&lt;/li&gt;
+  &lt;li&gt;Very creative and artistic&lt;/li&gt;
+  &lt;li&gt;Enna looks like the girls next door, girls can identify with&lt;/li&gt;
+  &lt;li&gt;Bright and vibrant&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m so excited to work with this artist. I will keep you updated once the first pages will come in.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 18 Apr 2017 01:21:47 -0400</pubDate>
+        <pubDate>Sun, 28 May 2017 01:21:47 -0400</pubDate>
         <link>/which-illustration/</link>
         <guid isPermaLink="true">/which-illustration/</guid>
         
@@ -50,6 +82,22 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Carol Dweck</title>
+        <description>&lt;h1 id=&quot;carol-dweck-mindset--the-new-psychology-of-success&quot;&gt;Carol Dweck ‘Mindset – the new psychology of success’&lt;/h1&gt;
+
+&lt;iframe style=&quot;text-align:center;&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QGvR_0mNpWM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 18 Apr 2017 01:21:47 -0400</pubDate>
+        <link>/carol-video/</link>
+        <guid isPermaLink="true">/carol-video/</guid>
+        
+        
+        <category>two</category>
         
       </item>
     
@@ -94,21 +142,6 @@
         <category>one</category>
         
         <category>two</category>
-        
-      </item>
-    
-      <item>
-        <title>Test</title>
-        <description>
-</description>
-        <pubDate>Thu, 09 Jun 2016 00:00:00 -0400</pubDate>
-        <link>/test/</link>
-        <guid isPermaLink="true">/test/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
