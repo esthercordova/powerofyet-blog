@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recognize Mindsets"
-date:   2017-07-01 10:51:47 +0530
+date:   2017-03-15 10:51:47 +0530
 img: comic2.png
 categories: jekyll update
 ---
