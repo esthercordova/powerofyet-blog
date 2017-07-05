@@ -12,7 +12,7 @@ The survey results are finally in.
 
 I had four illustrators to choose from. It was relatively easy to reduce that number to two. But then it got really hard. Both illustrators are true artist and been very attentive to details. Friends and family gave mixed feedback, so I needed to collect more serious data.
 
-<img src="img/comparison">
+<img src="img/comparison.png">
 
 ## Which one would you have chosen?
 
