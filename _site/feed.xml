@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jul 2017 18:21:58 -0400</pubDate>
-    <lastBuildDate>Wed, 05 Jul 2017 18:21:58 -0400</lastBuildDate>
+    <pubDate>Wed, 05 Jul 2017 18:23:38 -0400</pubDate>
+    <lastBuildDate>Wed, 05 Jul 2017 18:23:38 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -27,8 +27,8 @@
 &lt;p&gt;{site.baseurl/comic1.png}&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jul 2017 01:21:47 -0400</pubDate>
-        <link>/test/</link>
-        <guid isPermaLink="true">/test/</guid>
+        <link>/recorgnize-fixed-mindset/</link>
+        <guid isPermaLink="true">/recorgnize-fixed-mindset/</guid>
         
         
         <category>jekyll</category>
@@ -39,7 +39,7 @@
     
       <item>
         <title>The Winner</title>
-        <description>&lt;h1 id=&quot;and-the-winner-is-the-survey-results-are-finally-in&quot;&gt;And The Winner is… The survey results are finally in.&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;and-the-winner-is--the-survey-results-are-finally-in&quot;&gt;And The Winner is… ### The survey results are finally in.&lt;/h1&gt;
 
 &lt;p&gt;I had four illustrators to choose from. It was relatively easy to reduce that number to two. But then it got really hard. Both illustrators are true artist and been very attentive to details. Friends and family gave mixed feedback, so I needed to collect more serious data.&lt;/p&gt;
 
