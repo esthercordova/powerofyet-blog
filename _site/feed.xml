@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Jul 2017 18:18:24 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Jul 2017 18:18:24 -0400</lastBuildDate>
+    <pubDate>Wed, 05 Jul 2017 17:24:24 -0400</pubDate>
+    <lastBuildDate>Wed, 05 Jul 2017 17:24:24 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -55,23 +55,13 @@
       </item>
     
       <item>
-        <title>Usage Guide</title>
-        <description>&lt;p&gt;Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the &lt;code class=&quot;highlighter-rouge&quot;&gt;sidebar.html&lt;/code&gt; in &lt;strong&gt;_includes&lt;/strong&gt; folder.&lt;/p&gt;
+        <title>Carol Dweck</title>
+        <description>&lt;h1 id=&quot;carol-dweck-mindset--the-new-psychology-of-success&quot;&gt;Carol Dweck ‘Mindset – the new psychology of success’&lt;/h1&gt;
 
-&lt;h2 id=&quot;image&quot;&gt;Image&lt;/h2&gt;
+&lt;p&gt;Carol Dweck ‘Mindset – the new psychology of success’&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Use image of ratio 400x250 (800x500).&lt;/li&gt;
-  &lt;li&gt;Keep them inside &lt;code class=&quot;highlighter-rouge&quot;&gt;images&lt;/code&gt; folder.&lt;/li&gt;
-  &lt;li&gt;Mention image name in the front matter as shown below&lt;/li&gt;
-&lt;/ul&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QGvR_0mNpWM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yml&quot; data-lang=&quot;yml&quot;&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Some&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;title&quot;&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;categories&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;some category&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;image-name.jpg&lt;/span&gt;
-&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Sun, 12 Jun 2016 00:00:00 -0400</pubDate>
         <link>/usage-copy/</link>
