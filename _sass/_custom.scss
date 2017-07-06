@@ -2,12 +2,14 @@
 	margin-top: 100px;
 }
 
-.btn .btn-primary:hover {
+.btn-primary:hover {
 	background-color: #d8bb51;
+	color: #4f482d;
+	border-color: #FDDC66;
 }
 
-.btn .btn-primary {
-	background-color: #FDDC66;
-    border-color: #d8bb51;
+.btn-primary {
     color: #4f482d;
+    background-color: #FDDC66;
+    border-color: #d8bb51;
 }
