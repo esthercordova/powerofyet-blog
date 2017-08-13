@@ -87,7 +87,7 @@ img: cover-comparison-small.jpg
 <br>
 
 
-<img style="text-align:center;"src="{{site.baseurl}}/images/00_front.jpg">
+<img src="{{site.baseurl}}/images/00_front.jpg">
 
 
 
