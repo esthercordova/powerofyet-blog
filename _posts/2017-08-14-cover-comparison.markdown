@@ -3,10 +3,11 @@ layout: post
 title:  "Choosing a cover"
 date:   2017-08-14 10:51:47 +0530
 categories: jekyll update
-img: over-comparison-small.jpg
+img: cover-comparison-small.jpg
 ---
 
 ## We developed two wonderful covers... and asked the facebook community for feedback.
+<br><br><br>
 
 
 
@@ -15,11 +16,10 @@ img: over-comparison-small.jpg
 
 
 ## Here is some feeback we got
-
-
+<br>
 
 ### Cover A 
-
+<br><br><br>
 
 * I like the brighter colors in the left-hand cover and the objects floating around provide good power of suggestion, better than what the lightbulb
 * Definitely A, as it is bolder and clearer.
@@ -48,6 +48,7 @@ img: over-comparison-small.jpg
 
 
 ### Cover B
+<br><br><br>
 
 
 * B is my favorite since she looks so positive you can hear her say YET
@@ -77,7 +78,7 @@ img: over-comparison-small.jpg
 
 
 ## Overall advice:
-
+<br><br><br>
 
 * combine the two if possible * A color contrast stands out more
 * Also, I wonder if a dash rather than a comma would emphasize that YET.
@@ -88,8 +89,8 @@ img: over-comparison-small.jpg
 
 
 ## And this is the final cover
-
-
+<br>
+<br><br>
 
 <img src="{{site.baseurl}}/images/00_front.jpg">
 
