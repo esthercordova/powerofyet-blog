@@ -6,11 +6,7 @@ categories: jekyll update
 img: cover-comparison-small.jpg
 ---
 
-## We developed two wonderful covers... and asked the facebook community for feedback.
-<br><br><br>
-
-
-
+## We developed two wonderful covers... and asked the facebook community for feedback
 
 <img src="{{site.baseurl}}/images/cover-comparison.jpg">
 
@@ -19,7 +15,7 @@ img: cover-comparison-small.jpg
 <br>
 
 ### Cover A 
-<br><br><br>
+<br>
 
 * I like the brighter colors in the left-hand cover and the objects floating around provide good power of suggestion, better than what the lightbulb
 * Definitely A, as it is bolder and clearer.
@@ -46,9 +42,9 @@ img: cover-comparison-small.jpg
 * I like all of the possibilities in option A. You can tell she's contemplating being a dr, a scientist, and other professions. It provides more of an overall picture to the story. I like option b as well but I feel that it doesn't show quite as much. She has an idea but the other story shows that she has multiple ideas of what she could be. The possibilities are endless.
 
 
-
+<br>
 ### Cover B
-<br><br><br>
+<br>
 
 
 * B is my favorite since she looks so positive you can hear her say YET
@@ -74,9 +70,7 @@ img: cover-comparison-small.jpg
 * It is about growth mindset. The title words can be insiprational or defeatist depending on how you intepret it. The girl and cover colors need to inspire (or be happy/cheerful) in order to lead people to the inspirational interpretation which is why I like B better because the girl is smiling. Just my $0.02 worth
 * I really like the cheerful expression in B. Also, the lightbulb in B helps draw attention to the message of "growth mindset". I think Enna's happy face in B will help give the reader a more hopeful impression of what the outcome/ending will be.
 
-
-
-
+<br>
 ## Overall advice:
 <br><br><br>
 
@@ -87,12 +81,12 @@ img: cover-comparison-small.jpg
 * I think A captures the tone of the title more, but B seems more positive. It depends on what you are going for
 *  I like A but with a small light bulb to the side and more of B's expression.
 
-
+<br>
 ## And this is the final cover
 <br>
-<br><br>
 
-<img src="{{site.baseurl}}/images/00_front.jpg">
+
+<img style="text-align:center;"src="{{site.baseurl}}/images/00_front.jpg">
 
 
 
