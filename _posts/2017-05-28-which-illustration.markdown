@@ -3,7 +3,7 @@ layout: post
 title:  "The Winner"
 date:   2017-05-28 10:51:47 +0530
 categories: jekyll update
-img: page1a.png
+img: comparison.png
 ---
 
 ## And The Winner is… The survey results are finally in
