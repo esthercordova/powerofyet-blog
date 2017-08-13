@@ -13,8 +13,6 @@ Kids learn a lot from observing and listening to you. So its crucial to recogniz
 <img src="{{site.baseurl}}/images/sayings.png">
 
 
-##### Just as a baby isn’t born talking but learns over time, they don’t know everything but can learn over time with work.
-
-A growth mindset helps children to believe that they can learn, change, and develop needed skills. They are better equipped to handle inevitable setbacks, and know that hard work can help them accomplish their goals.
+Just as a baby isn’t born talking but learns over time, they don’t know everything but can learn over time with work. A growth mindset helps children to believe that they can learn, change, and develop needed skills. They are better equipped to handle inevitable setbacks, and know that hard work can help them accomplish their goals.
 
 <img src="{{site.baseurl}}/images/comic1.png">

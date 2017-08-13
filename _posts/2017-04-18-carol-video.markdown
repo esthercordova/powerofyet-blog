@@ -9,6 +9,8 @@ categories: two
 
 ## Carol Dweck ‘Mindset – the new psychology of success’
 
+Watch that video to get a better understanding of what a growth mindset is and how it can benefit you and your child.
+
 <iframe style="text-align:center;" width="560" height="315" src="https://www.youtube.com/embed/QGvR_0mNpWM" frameborder="0" allowfullscreen></iframe>
 
 
