@@ -9,13 +9,17 @@ img: girl2.png
 ## We developed two wonderful covers... and asked the facebook community for feedback.
 
 
+
+
 <img src="{{site.baseurl}}/images/cover-comparison.jpg">
 
 
 ## Here is some feeback we got
 
 
+
 ### Cover A 
+
 
 * I like the brighter colors in the left-hand cover and the objects floating around provide good power of suggestion, better than what the lightbulb
 * Definitely A, as it is bolder and clearer.
@@ -42,7 +46,9 @@ img: girl2.png
 * I like all of the possibilities in option A. You can tell she's contemplating being a dr, a scientist, and other professions. It provides more of an overall picture to the story. I like option b as well but I feel that it doesn't show quite as much. She has an idea but the other story shows that she has multiple ideas of what she could be. The possibilities are endless.
 
 
+
 ### Cover B
+
 
 * B is my favorite since she looks so positive you can hear her say YET
 * Cover b. Its more positive.
@@ -69,7 +75,9 @@ img: girl2.png
 
 
 
+
 ## Overall advice:
+
 
 * combine the two if possible * A color contrast stands out more
 * Also, I wonder if a dash rather than a comma would emphasize that YET.
