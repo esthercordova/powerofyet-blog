@@ -87,4 +87,11 @@ img: girl2.png
 *  I like A but with a small light bulb to the side and more of B's expression.
 
 
+## And this is the final cover
+
+
+
+<img src="{{site.baseurl}}/images/00_front.jpg">
+
+
 
