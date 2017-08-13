@@ -72,14 +72,15 @@ img: cover-comparison-small.jpg
 
 <br>
 ## Overall advice:
-<br><br><br>
+<br><br>
 
-* combine the two if possible * A color contrast stands out more
+* Combine the two if possible 
+* A color contrast stands out more
 * Also, I wonder if a dash rather than a comma would emphasize that YET.
-* For example "A" has green in the background bit "B" has more yellow.Also the girls hair is lighter in "B" if it were darker like “A”. Those colour changes would make a difference.However, if changes can't be made at this point I would still go with "B" Images and words will form opinions in the Childs mind before they get a chance to read the book. It may offset their perceptions of the books meaning.Younger children may base their ideas off of, and learn, from images alone.
+* For example "A" has green in the background bit "B" has more yellow. Also the girls hair is lighter in "B" if it were darker like “A”. Those colour changes would make a difference.However, if changes can't be made at this point I would still go with "B" Images and words will form opinions in the Childs mind before they get a chance to read the book. It may offset their perceptions of the books meaning.Younger children may base their ideas off of, and learn, from images alone.
 * SUGGESTIONS: Color match B with A's color. 
 * I think A captures the tone of the title more, but B seems more positive. It depends on what you are going for
-*  I like A but with a small light bulb to the side and more of B's expression.
+* I like A but with a small light bulb to the side and more of B's expression.
 
 <br>
 ## And this is the final cover

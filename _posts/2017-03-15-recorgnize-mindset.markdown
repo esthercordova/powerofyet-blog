@@ -7,6 +7,7 @@ categories: jekyll update
 ---
 
 ## Recognize Fixed Mindset Thoughts and Replace them
+<br>
 
 Kids learn a lot from observing and listening to you. So its crucial to recognize fixed mindset thoughts and then replace then in your every day life with growth mindset thoughts. In the beginning this will feel maybe a little weird but over time it will come naturally. Find below a a list with things to say instead:
 
