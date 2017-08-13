@@ -86,6 +86,12 @@ img: cover-comparison-small.jpg
 ## And this is the final cover
 <br>
 
+After taking in all the great feedback I’m happy to show the final cover. A lot of people preferred the bolder and brighter colors in cover A, but liked the positivity and energy of cover B.
+
+So the final cover will be a combination of cover A and cover B.
+
+We gave the art work last touch ups, added a smile on Enna and made sure the fonts are better readable. I hope you guys will love it. I’m in love with it.
+
 
 <img src="{{site.baseurl}}/images/00_front.jpg">
 
