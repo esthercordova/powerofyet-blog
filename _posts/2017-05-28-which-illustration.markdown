@@ -6,11 +6,11 @@ categories: jekyll update
 img: page1a.png
 ---
 
-# And The Winner is… The survey results are finally in.
+## And The Winner is… The survey results are finally in.
 
 I had four illustrators to choose from. It was relatively easy to reduce that number to two. But then it got really hard. Both illustrators are true artist and been very attentive to details. Friends and family gave mixed feedback, so I needed to collect more serious data.
 
-<img src="img/comparison.png">
+<img src="{{site.baseurl}}/images/comparison.png">
 
 ## Which one would you have chosen?
 
@@ -18,11 +18,11 @@ Interesting is that the difference between all respondents compared to the group
 
 And the winner is….
 
-<img src="img/page1a.png">
+<img src="{{site.baseurl}}/images/page1a.png">
 
 Have a look at the breakdown of the individual questions.
 
-<img src="img/survey.png">
+<img src="{{site.baseurl}}/images/survey.png">
 
 Curious why people picked illustration A? Here is what people said why they love illustration A:
 * Great bright, gender neural colors- positive and sunny
